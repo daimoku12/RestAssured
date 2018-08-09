@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/Kannu/Downloads/rest-assured-3.1.0-dist/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kannu/Downloads/rest-assured-3.1.0-dist/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kannu/Downloads/rest-assured-3.1.0-dist/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kannu/Downloads/rest-assured-3.1.0-dist/groovy-2.4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kannu/Downloads/rest-assured-3.1.0-dist/groovy-json-2.4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kannu/Downloads/rest-assured-3.1.0-dist/groovy-xml-2.4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kannu/Downloads/rest-assured-3.1.0-dist/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kannu/Downloads/rest-assured-3.1.0-dist/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kannu/Downloads/rest-assured-3.1.0-dist/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kannu/Downloads/rest-assured-3.1.0-dist/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kannu/Downloads/rest-assured-3.1.0-dist/httpmime-4.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kannu/Downloads/rest-assured-3.1.0-dist/jaxb-api-2.2.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kannu/Downloads/rest-assured-3.1.0-dist/json-path-3.1.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kannu/Downloads/rest-assured-3.1.0-dist/json-path-3.1.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kannu/Downloads/rest-assured-3.1.0-dist/rest-assured-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kannu/Downloads/rest-assured-3.1.0-dist/rest-assured-3.1.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kannu/Downloads/rest-assured-3.1.0-dist/rest-assured-3.1.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kannu/Downloads/rest-assured-3.1.0-dist/rest-assured-common-3.1.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kannu/Downloads/rest-assured-3.1.0-dist/rest-assured-common-3.1.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kannu/Downloads/rest-assured-3.1.0-dist/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kannu/Downloads/rest-assured-3.1.0-dist/xml-path-3.1.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Kannu/Downloads/rest-assured-3.1.0-dist/xml-path-3.1.0-sources.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
