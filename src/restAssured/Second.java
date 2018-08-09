@@ -37,11 +37,11 @@ public class Second
   Response response = (Response) 
     
   given().
-    param("userName", "ratescmtrader").
-    param("passWord", "Auto1234"). 
+    param("userName", "test").
+    param("passWord", "test"). 
     header("Content-Type", "application/x-www-form-urlencoded").
   when().    
-    post("https://uat.citivelocity.com/portal-auth/stepUpAuth?source=CVDesktopApp");
+    post("https://test.com");
       
   Map<String, String> cookies = response.getCookies();
   
